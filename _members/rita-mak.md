@@ -1,11 +1,13 @@
 ---
-name: Sarah Johnson
+name: Rita Mak
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: phd
+description: PhD student
+aliases:
+  - R. Mak
+  - R Mak
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: rita.mak@uni-osnabrueck.de
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
